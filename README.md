@@ -22,14 +22,6 @@
 
 ---
 
-
-
-## 📊 GitHub İstatistiklerim
-![Erenin'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=default)  
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=default)  
-
----
-
 ## 🌐 Benimle İletişime Geç
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/erenulusan/)  
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/erenulusann)  
