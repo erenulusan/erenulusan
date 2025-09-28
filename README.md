@@ -1,4 +1,4 @@
-# 👋 Merhaba, Eren Uluşan
+# 👋 Merhaba, Ben Eren Uluşan
 
 🎯 **Junior Data Scientist **
 📍 Türkiye - Ankara | 📊 Veri Bilimi, Makine Öğrenmesi & Yapay Zeka alanında çalışıyorum.
